@@ -14,7 +14,7 @@ class Navbar extends Component {
           rel="noopener noreferrer"
         >
          
-          secureX
+          CURIA
         </a>
         <ul className="navbar-nav px-3">
           <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
