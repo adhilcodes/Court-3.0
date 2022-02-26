@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.11d832ee.chunk.css",
-  "main.js": "/static/js/main.caa1459a.chunk.js",
-  "main.js.map": "/static/js/main.caa1459a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.4f629cd3.chunk.css": "/static/css/2.4f629cd3.chunk.css",
-  "static/js/2.dae4495a.chunk.js": "/static/js/2.dae4495a.chunk.js",
-  "static/js/2.dae4495a.chunk.js.map": "/static/js/2.dae4495a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.aaa51fa14a71650ff2ea1979b2b158c4.js": "/precache-manifest.aaa51fa14a71650ff2ea1979b2b158c4.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.4f629cd3.chunk.css.map": "/static/css/2.4f629cd3.chunk.css.map",
-  "static/css/main.11d832ee.chunk.css.map": "/static/css/main.11d832ee.chunk.css.map"
+  "main.css": "/curia/static/css/main.11d832ee.chunk.css",
+  "main.js": "/curia/static/js/main.8567be1f.chunk.js",
+  "main.js.map": "/curia/static/js/main.8567be1f.chunk.js.map",
+  "runtime~main.js": "/curia/static/js/runtime~main.4fbbc3dd.js",
+  "runtime~main.js.map": "/curia/static/js/runtime~main.4fbbc3dd.js.map",
+  "static/css/2.e40fb2d1.chunk.css": "/curia/static/css/2.e40fb2d1.chunk.css",
+  "static/js/2.7378d8cf.chunk.js": "/curia/static/js/2.7378d8cf.chunk.js",
+  "static/js/2.7378d8cf.chunk.js.map": "/curia/static/js/2.7378d8cf.chunk.js.map",
+  "index.html": "/curia/index.html",
+  "precache-manifest.dc7cfb498f1eb6eb399781ab13ec01a9.js": "/curia/precache-manifest.dc7cfb498f1eb6eb399781ab13ec01a9.js",
+  "service-worker.js": "/curia/service-worker.js",
+  "static/css/2.e40fb2d1.chunk.css.map": "/curia/static/css/2.e40fb2d1.chunk.css.map",
+  "static/css/main.11d832ee.chunk.css.map": "/curia/static/css/main.11d832ee.chunk.css.map"
 }
