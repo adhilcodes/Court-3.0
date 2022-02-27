@@ -41,9 +41,9 @@
 
 3. Go to [Polygon Faucet](https://faucet.polygon.technology/) and paste your wallet address to obtain MATIC for testing.
 
-4. Connect secureX website to Metamask.
+4. Connect Curia website to Metamask.
 
-5. Go ahead and explore secureX.
+5. Go ahead and explore Curia.
 
 
 
